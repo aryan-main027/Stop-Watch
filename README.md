@@ -56,7 +56,7 @@ Follow these steps to run the project locally on your machine.
     ```
 
 4.  **Open in Browser**
-    Visit `http://localhost:5173` (Vite) or `http://localhost:3000` (CRA) to view the app.
+    Visit -> https://mini-stop-watch.netlify.app/ .
 
 ## 🤝 Contributing
 
