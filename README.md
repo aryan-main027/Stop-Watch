@@ -3,7 +3,6 @@
 A sleek, modern, and efficient Stopwatch application built with **React** and styled using **Tailwind CSS**.
 
 ![Project Screenshot](./screenshot.png)
-*(Note: Upload a screenshot of your app to your repo and name it `screenshot.png` to see it here!)*
 
 ## 🚀 Features
 
